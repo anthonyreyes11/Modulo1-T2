@@ -1,0 +1,34 @@
+body{
+    background-image: url(./starwars_files/space-1164579_1280.webp);
+}
+.el_imperio{
+    background-color: red;
+}
+.los_malos{
+    background-color: red;
+}
+#darth_vader{
+    font-size: 50px;
+}
+.los_rebeldes{
+    background-color: blue;
+}
+#stormtroopers{
+    border-style: dotted;
+    letter-spacing: 5px;
+}
+.apoyo{
+    text-align: center;color: red;
+}
+.naves{
+    text-transform: uppercase;
+    background-color: #ffff;
+    color: black;
+}
+.droides{
+    text-align:center ;
+}
+img{
+    width: 200px;
+    height: auto;
+}
